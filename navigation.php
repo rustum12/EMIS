@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><img src="logo.png" alt="Logo" style="height: 40px;"> LMS</a>
+            <a class="navbar-brand" href="#"><img src="logo.PNG" alt="Logo" style="height: 40px;"> LMS</a>
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav ms-auto">
                    

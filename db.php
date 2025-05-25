@@ -1,9 +1,9 @@
 <?php session_start();
 // db.php - Database Connection
-$servername = "localhost";
-$username = "root";
-$password = "";
-$database = "lms";
+$servername = "fdb1028.awardspace.net";
+$username = "4635387_emis";
+$password = "emis1234";
+$database = "4635387_emis";
 
 $conn = new mysqli($servername, $username, $password, $database);
 

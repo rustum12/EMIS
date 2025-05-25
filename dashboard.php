@@ -1,4 +1,4 @@
- 	<?php
+<?php
 include 'db.php';
 
 // Check if user is logged in
